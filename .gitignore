@@ -13,3 +13,4 @@ Content/StarterContent/
 *.xcworkspace
 *.db-shm
 *.db-wal
+*.ipch
